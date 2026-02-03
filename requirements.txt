@@ -2,3 +2,5 @@ streamlit
 flask
 edge-tts
 SpeechRecognition
+pyttsx3
+PyAudio
